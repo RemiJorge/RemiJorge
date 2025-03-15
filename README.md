@@ -1,7 +1,6 @@
-![GitHub Banner](https://raw.githubusercontent.com/RemiJorge/RemiJorge/main/banner.png)
-
-
 # Hi there, I'm Remi 👋
+
+![GitHub Banner](https://raw.githubusercontent.com/RemiJorge/RemiJorge/main/banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=F76A59&center=true&vCenter=true&width=550&lines=Welcome+to+my+profile+!;Future+IT+Engineer;Passionate+about+AI;Passionate+about+Software+Development"/>
@@ -25,7 +24,19 @@ Final-year student at Polytech Montpellier | Specialized in Computer Science and
 
 🔍 Always curious and motivated, I am seeking new challenges to continue growing in a stimulating environment and contribute to ambitious projects.
 
-### 🖥️ Programming Languages:
+
+## 🧠 Learning & Projects
+<p align="left">
+  🔹 I am currently working on AI-related projects, including <strong>Computer Vision</strong>, <strong>LLMs (Large Language Models)</strong>, and <strong>Machine Learning classification</strong>. 🧠🤖  
+  
+  🔹 I am always learning new tools and technologies! Right now, I am improving my skills in <strong>NASM (Win64)</strong>, <strong>Golang</strong>, and <strong>C++</strong>. 🚀📚  
+</p>
+
+<br>
+
+---
+
+## 🖥️ Programming Languages:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -44,9 +55,8 @@ Final-year student at Polytech Montpellier | Specialized in Computer Science and
   <img src="https://img.shields.io/badge/Scala-DE3423?style=for-the-badge&logo=scala&logoColor=white">
 </p>
 
----
 
-### ⚡ Frameworks & Libraries:
+## ⚡ Frameworks & Libraries:
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -61,9 +71,8 @@ Final-year student at Polytech Montpellier | Specialized in Computer Science and
   <img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
----
 
-### 🛠️ Development Tools:
+## 🛠️ Development Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
@@ -73,9 +82,8 @@ Final-year student at Polytech Montpellier | Specialized in Computer Science and
   <img src="https://img.shields.io/badge/Cursor-FFD700?style=for-the-badge&logo=code&logoColor=black">
 </p>
 
----
 
-### 📈 Project Management & DevOps:
+## 📈 Project Management & DevOps:
 <p align="center">
   <img src="https://img.shields.io/badge/AGILE-009688?style=for-the-badge&logo=agile&logoColor=white">
   <img src="https://img.shields.io/badge/SCRUM-0052CC?style=for-the-badge&logo=jira&logoColor=white">
