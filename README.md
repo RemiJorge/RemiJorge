@@ -20,7 +20,17 @@ Future IT Engineer | Passionate about AI & Software Development
 
 🔍 Always curious and motivated, I am seeking new challenges to continue growing in a stimulating environment and contribute to ambitious projects.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue">
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624">
+</p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Space_banner.jpg" width="800">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil!;Développeur+Full+Stack;Passionné+d'open-source!" />
+</p>
 
 
 <!--
