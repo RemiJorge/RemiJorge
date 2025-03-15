@@ -29,7 +29,9 @@ Final-year student at Polytech Montpellier | Specialized in Computer Science and
 <p align="left">
   🔹 I am currently working on AI-related projects, including <strong>Computer Vision</strong>, <strong>LLMs (Large Language Models)</strong>, and <strong>Machine Learning classification</strong>. 🧠🤖  
   
-  🔹 I am always learning new tools and technologies! Right now, I am improving my skills in <strong>NASM (Win64)</strong>, <strong>Golang</strong>, and <strong>C++</strong>. 🚀📚  
+  🔹 I am always learning new tools and technologies! Right now, I am improving my skills in <strong>NASM (Win64)</strong>, <strong>Golang</strong>, and <strong>C++</strong>. 🚀📚 
+
+  🔹 Please note that most of my projects are hosted on private repositories due to confidentiality concerns. 🔒
 </p>
 
 <br>
