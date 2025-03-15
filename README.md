@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=F76A59&center=true&vCenter=true&width=550&lines=Welcome+to+my+profile+!;Future+IT+Engineer;Passionate+about+AI;Passionate+about+Software+Development"/>
 </p>
 
+>*Work hard with purpose, think smart with strategy—success is the reward of both.*
 
 ## About me
 
@@ -25,12 +26,20 @@ Final-year student at Polytech Montpellier | Specialized in Computer Science and
 🔍 Always curious and motivated, I am seeking new challenges to continue growing in a stimulating environment and contribute to ambitious projects.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue">
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=blue">
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&color=61DAFB">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=FCC624">
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/votreprofil/)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/remi-jorge/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+➡ [Clique ici pour me suivre sur LinkedIn](https://www.linkedin.com/in/votreprofil/)
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RemiJorge&show_icons=true&theme=radical)
