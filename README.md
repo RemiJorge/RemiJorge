@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Remi 👋
+
+Future IT Engineer | Passionate about AI & Software Development
+
+## Infos
+
+🎓 Final-year student at Polytech Montpellier | Specialized in Computer Science and Project Management | Passionate about Artificial Intelligence, Software Development, and Technological Innovation 🚀
+
+💡 What drives me? Creating innovative technological solutions and collaborating on challenging projects.
+
+🛠️ Skills developed through academic and professional projects:
+
+🤖 Artificial Intelligence: Proficient in frameworks such as TensorFlow, PyTorch, and Scikit-Learn for developing AI models (supervised and unsupervised), with a focus on machine learning and deep learning.
+
+💻 Software Development: Design and development of web and mobile applications using technologies like Python, Java, C, TypeScript, React, Node.js, and FastAPI.
+
+📈 Project Management: Experience in Agile methodologies (SCRUM) and expertise with tools like GitHub and GitLab to coordinate teams and deliver complex technical projects on time.
+
+🔍 Always curious and motivated, I am seeking new challenges to continue growing in a stimulating environment and contribute to ambitious projects.
+
+
+![GitHub Banner](https://i.pinimg.com/736x/7c/ed/32/7ced32d6cfb80d49545444c0a382de3b.jpg)
+
+<img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-765.gif" width="300">
 
 <!--
 **RemiJorge/RemiJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
