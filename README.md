@@ -21,7 +21,11 @@ Future IT Engineer | Passionate about AI & Software Development
 
 ![GitHub Banner](https://i.pinimg.com/736x/7c/ed/32/7ced32d6cfb80d49545444c0a382de3b.jpg)
 
-<img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-765.gif" width="300">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RemiJorge&show_icons=true&theme=radical)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/remi-jorge)
+
 
 <!--
 **RemiJorge/RemiJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
