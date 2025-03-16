@@ -3,14 +3,15 @@
 ![GitHub Banner](https://raw.githubusercontent.com/RemiJorge/RemiJorge/main/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=F76A59&center=true&vCenter=true&width=550&lines=Welcome+to+my+profile+!;Future+IT+Engineer;Passionate+about+AI;Passionate+about+Software+Development"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=F76A59&center=true&vCenter=true&width=550&lines=Welcome+to+my+profile!;AI+and+Software+Engineer;Passionate+about+AI;Passionate+about+Software+Engineering"/>
 </p>
+
 
 >*Work hard with purpose, think smart with strategy—success is the reward of both.*
 
 ## About me
 
-Final-year student at Polytech Montpellier | Specialized in Computer Science and Project Management | Passionate about Artificial Intelligence, Software Development, and Technological Innovation 🚀
+Graduated Engineer from Polytech Montpellier | Specialized in Software Engineering and Project Management | Passionate about Artificial Intelligence, Software Development, and Technological Innovation 🚀
 
 💡 **What drives me?** Creating innovative technological solutions and collaborating on challenging projects.
 
