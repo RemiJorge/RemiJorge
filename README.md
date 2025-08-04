@@ -7,7 +7,7 @@
 </p>
 
 
->*Work hard with purpose, think smart with strategy—success is the reward of both.*
+>*Work hard with purpose, think smart with strategy: success is the reward of both.*
 
 ## About me
 
@@ -102,6 +102,9 @@ Graduated Engineer from Polytech Montpellier | Specialized in Software Engineeri
 <p align="center">
   <a href="https://www.linkedin.com/in/remi-jorge/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/RemiJRG">
+    <img src="https://img.shields.io/badge/-Leetcode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leetcode">
   </a>
 </p>
 
