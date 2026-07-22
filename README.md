@@ -46,52 +46,6 @@ I enjoy understanding how AI systems work internally, from implementing models f
 
 ---
 
-## Selected projects
-
-### GPT-2 from Scratch
-
-Implementation of a GPT-2 style Large Language Model following  
-*Build a Large Language Model* by Sebastian Raschka.
-
-Topics covered:
-- Byte Pair Encoding (BPE)
-- Token embeddings
-- Positional encoding
-- Multi-head attention
-- Transformer blocks
-- Training and text generation
-
-
-### Multi-Agent Reinforcement Learning
-
-Research project exploring autonomous agents combining:
-- Reinforcement Learning
-- Predictive models
-- Sequential decision making
-- Feedback loops
-
-
-### Retrieval-Augmented Generation Systems
-
-Experiments around RAG architectures:
-- Document retrieval
-- Vector databases
-- Embedding models
-- Agent evaluation
-- Hallucination reduction
-
-
-### Computer Vision & Generative AI
-
-Exploring:
-- Image classification
-- Transfer learning
-- Diffusion models
-- AI-assisted generation workflows
-
-
----
-
 ## Tech stack
 
 ### AI / Machine Learning
